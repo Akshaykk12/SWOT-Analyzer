@@ -8,7 +8,7 @@ const openai = new OpenAIApi(configuration);
 
 const basePromptPrefix = 
 `
-Do a swot analysis of the following with taking market value, customer and future prediction into consideration.:
+Do a swot analysis (2points each) of the following with taking market value, customer and future prediction into consideration.:
 
 `;
 const generateAction = async (req, res) => {
