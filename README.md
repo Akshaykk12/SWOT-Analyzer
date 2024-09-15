@@ -1,4 +1,5 @@
 # AI SWOT Analysis
+![](https://github.com/Akshaykk12/SWOT-Analyzer/blob/main/public/SWOTBanner.png)
 
 ## Overview
 
